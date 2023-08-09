@@ -7,7 +7,7 @@
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Command-Line-Arguments] (#command-line-arguments)
+- [Command-Line-Arguments](#command-line-arguments)
 - [Part 1: Validate the Command-line Arguments](#part-1-validate-the-command-line-arguments)
 - [Part 2: Simple Search and Replacement](#part-2-simple-search-and-replacement)
 - [Part 3: Wildcard Search and Replacement](#part-3-wildcard-search-and-replacement)
